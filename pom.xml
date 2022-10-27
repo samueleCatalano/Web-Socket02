@@ -8,8 +8,8 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.websocket01</groupId>
-	<artifactId>websocket01</artifactId>
+	<groupId>com.websocket02</groupId>
+	<artifactId>websocket02</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>websocket01</name>
 	<description>Develhope Exercise Spring</description>

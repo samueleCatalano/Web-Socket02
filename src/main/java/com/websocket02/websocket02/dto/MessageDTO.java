@@ -1,4 +1,4 @@
-package com.websocket01.websocket01.dto;
+package com.websocket02.websocket02.dto;
 
 public class MessageDTO {
 

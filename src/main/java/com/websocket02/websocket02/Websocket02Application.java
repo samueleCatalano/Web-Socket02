@@ -1,13 +1,13 @@
-package com.websocket01.websocket01;
+package com.websocket02.websocket02;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Websocket01Application {
+public class Websocket02Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Websocket01Application.class, args);
+		SpringApplication.run(Websocket02Application.class, args);
 	}
 
 }
